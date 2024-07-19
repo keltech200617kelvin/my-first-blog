@@ -1,0 +1,58 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore backup files created by some text editors
+*~
+
+# Ignore Python cache directory
+__pycache__/
+
+# Ignore environment variable files
+.env
+
+# Ignore virtual environment directories
+myvenv/
+venv/
+
+# Ignore SQLite database file
+db.sqlite3
+
+# Ignore static files directory (if located at the project root)
+/static/
+
+# Ignore macOS specific hidden files
+._*
+
+# Ignore macOS directory metadata files
+.DS_Store
+
+# Ignore macOS filesystem event logs
+.fseventsd/
+
+# Ignore macOS Spotlight index
+.Spotlight-V100/
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Ignore Windows Vista thumbnail files
+ehthumbs_vista.db
+
+# Ignore Windows desktop configuration file
+Desktop.ini
+
+# Ignore Windows recycle bin
+$RECYCLE.BIN/
+
+# Ignore Visual Studio Code IDE settings folder
+.vscode/
+
+# Ignore version control history folder
+.history/
+
+# Ignore Visual Studio Code workspace files
+*.code-workspace
+
+# Virtual Environment
+myvenv/
